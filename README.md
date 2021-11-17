@@ -1,21 +1,22 @@
 <!-- # **<h1 class="Kyue"  > <b><span style="color:chartreuse">Kyuna</span><span>.ie</span></b></h1>** -->
-# Hi there 👋 I am Abhishek!
-<!-- ### I am a full stack developer. -->
+### Hey!✨
+# I am Abhishek!
+### I am a full stack developer.
 ### Pursuing my B.Tech at NIT Calicut.
-### - 🌱I’m currently learning:
+### I’m currently learning:
   - React
   - Node.js
   - Typescript
 
 ### - 🔭 I’m currently working on ...
   - [<a href="https://kyunaie.herokuapp.com/">Personal Portfolio</a>]
-### -⚡ My Interests: 
+### My Interests: 
   - 📷Photography
   - 📺Television
   - 🧳Travelling
   - 💻Photoshop
   - 🎧Music
-### -⚡ My Social Media: 
+### My Social Media: 
 <!-- <div align="center" > -->
 <a style="color:chartreuse" href="https://www.linkedin.com/in/abhishekmpawar/">
 <svg xmlns="http://www.w3.org/2000/svg"
