@@ -1,10 +1,12 @@
-# **<h1 class="Kyue"  > <b><span style="color:chartreuse">Kyuna</span><span>.ie</span></b></h1>**
+<!-- # **<h1 class="Kyue"  > <b><span style="color:chartreuse">Kyuna</span><span>.ie</span></b></h1>** -->
 # Hi there 👋 I am Abhishek!
 <!-- ### I am a full stack developer. -->
 ### Pursuing my B.Tech at NIT Calicut.
 ### - 🌱I’m currently learning:
   - React
   - Node.js
+  - Typescript
+
 ### - 🔭 I’m currently working on ...
   - [<a href="https://kyunaie.herokuapp.com/">Personal Portfolio</a>]
 ### -⚡ My Interests: 
@@ -13,16 +15,15 @@
   - 🧳Travelling
   - 💻Photoshop
   - 🎧Music
-
-
-<div align="center" >
-<a style="color:chartreuse" href="https://www.linkedin.com/in/abhishekmpawar/"> <svg xmlns="http://www.w3.org/2000/svg"
-        width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-        stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin">
-        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"></path>
-        <rect x="2" y="9" width="4" height="12"></rect>
-        <circle cx="4" cy="4" r="2"></circle>
-    </svg></a>
+### -⚡ My Social Media: 
+<!-- <div align="center" > -->
+<a style="color:chartreuse" href="https://www.linkedin.com/in/abhishekmpawar/">
+<svg xmlns="http://www.w3.org/2000/svg"
+width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z">
+</path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
+</svg>
+</a>
 &#x2800;
 <a style="color:crimson" href="https://www.instagram.com/kyunaie/"> <svg xmlns="http://www.w3.org/2000/svg" width="24"
         height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
@@ -43,7 +44,7 @@
 </div>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyunaie&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="vimrajesh" /></p>
-</div>
+<!-- </div> -->
 
 
 
