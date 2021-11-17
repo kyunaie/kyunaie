@@ -6,7 +6,7 @@
   - React
   - Node.js
 ### - 🔭 I’m currently working on ...
-  - [<a href="kyunaie.herokuapp.com">kyunaie.herokuapp.com</a>]
+  - [<a href="https://kyunaie.herokuapp.com/">Personal Portfolio</a>]
 ### -⚡ My Interests: 
   - 📷Photography
   - 📺Television
