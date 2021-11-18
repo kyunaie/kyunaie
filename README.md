@@ -25,7 +25,7 @@
 
 &#x2800;
 
-<a style="color:crimson" href="https://www.instagram.com/kyunaie/"> <img src="./controllers_brief.svg" alt="insta" ></a>
+<a style="color:crimson" href="https://www.instagram.com/kyunaie/"> <img src="./instagram.svg" alt="insta" ></a>
 
 &#x2800;
 
