@@ -1,6 +1,6 @@
 <div align="center" >
+<img src="./kopara.svg" alt="Linked In" >
 
-## 🦊
 ### Hey!✨
 # I am Abhie.
 ### 🤖 I am a full stack developer, Pursuing my B.Tech from NIT Calicut.
@@ -22,7 +22,6 @@
 <!-- <hr> -->
 <a style="color:chartreuse" href="https://www.linkedin.com/in/abhishekmpawar/"><img src="./linkedin.svg" alt="Linked In" >
 </a>
-
 &#x2800;
 <a style="color:crimson" href="https://www.instagram.com/kyunaie/"> <img src="./instagram.svg" alt="insta" ></a>
 &#x2800;
