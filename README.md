@@ -1,15 +1,17 @@
-<!-- # **<h1 class="Kyue"  > <b><span style="color:chartreuse">Kyuna</span><span>.ie</span></b></h1>** -->
 <center>
+
 ### Hey!✨
-# I am Abhishek!
-### I am a full stack developer.
-### Pursuing my B.Tech at NIT Calicut.
+# 🦊 I am Abhie.
+### 🤖 I am a full stack developer, Pursuing my B.Tech from NIT Calicut.
+</center>
+
 ### I’m currently learning:
+
   - React
   - Node.js
   - Typescript
 
-### - 🔭 I’m currently working on ...
+### I’m currently working on ...
   - [<a href="https://kyunaie.herokuapp.com/">Personal Portfolio</a>]
 ### My Interests: 
   - 📷Photography
