@@ -1,28 +1,25 @@
-<center>
+<div align="center" >
 
 ### Hey!✨
-# 🦊 I am Abhie.
+## 🦊
+# I am Abhie.
 ### 🤖 I am a full stack developer, Pursuing my B.Tech from NIT Calicut.
-</center>
 
 ### I’m currently learning:
-
-  - React
-  - Node.js
-  - Typescript
+  React <br>
+  Node.js <br>
+  Typescript
 
 ### I’m currently working on ...
-  - [<a href="https://kyunaie.herokuapp.com/">Personal Portfolio</a>]
+  [<a href="https://kyunaie.herokuapp.com/">Personal Portfolio</a>]
 ### My Interests: 
-  - 📷Photography
-  - 📺Television
-  - 🧳Travelling
-  - 💻Photoshop
-  - 🎧Music
-
-
-
-<div align="center" >
+  📷Photography
+  📺Television
+  🧳Travelling <br>
+  💻Photoshop
+  🎧Music
+<br>
+<!-- <hr> -->
 <a style="color:chartreuse" href="https://www.linkedin.com/in/abhishekmpawar/"><img src="./linkedin.svg" alt="Linked In" >
 </a>
 &#x2800;
