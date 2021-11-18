@@ -21,18 +21,18 @@
   - 🎧Music
 
 
-<center>
-<!-- <div align="center" > -->
+
+<div align="center" >
 <a style="color:chartreuse" href="https://www.linkedin.com/in/abhishekmpawar/"><img src="./linkedin.svg" alt="Linked In" >
 </a>
 &#x2800;
 <a style="color:crimson" href="https://www.instagram.com/kyunaie/"> <img src="./instagram.svg" alt="insta" ></a>
 &#x2800;
 <a href="https://twitter.com/kyunaie"><img src="./twitter.svg" alt="Twitter" ></a>
-</div>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyunaie&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=True&margin-h=8 " alt="vimrajesh" /></p>
-</center>
+</div>
 
 
 
