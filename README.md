@@ -1,9 +1,12 @@
 <!-- # **<h1 class="Kyue"  > <b><span style="color:chartreuse">Kyuna</span><span>.ie</span></b></h1>** -->
 <center>
+
 ### Hey!✨
 # I am Abhishek!
 ### I am a full stack developer.
 ### Pursuing my B.Tech at NIT Calicut.
+</center>
+
 ### I’m currently learning:
   - React
   - Node.js
@@ -17,15 +20,32 @@
   - 🧳Travelling
   - 💻Photoshop
   - 🎧Music
+
+<center>
+
+
 ### My Social Media:
+<!-- write Instagram profile -->
+<!-- <a href="https://www.instagram.com/kyunaie/" target="_blank">
+<img src="https://instagram.fbom46-1.fna.fbcdn.net/v/t51.2885-19/s150x150/119704325_2793644844293447_6649661497266206466_n.jpg?_nc_ht=instagram.fbom46-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=MIIzqNkDyToAX81N2S6&edm=ALCvFkgBAAAA&ccb=7-4&oh=07da9bae6b2c7ab417d42212e894dd4d&oe=619DE454&_nc_sid=643ae9"
+alt="Instagram" width="50" height="50">
+</a>
+<!-- linked in -->
+<!-- <a href="https://www.linkedin.com/in/abhishekmpawar/" target="_blank">
+<img src="https://cdn.pixabay.com/photo/2016/08/20/05/36/linkedin-1605814_960_720.png" alt="LinkedIn" width="50" height="50">
+</a>
+<!-- twitter -->
+<!-- <a href="https://twitter.com/kyunaie" target="_blank"> 
+<img src="https://cdn.pixabay.com/photo/2016/08/20/05/36/twitter-1605811_960_720.png" alt="Twitter" width="50" height="50">
+</a> -->
+
 
 <!-- <div align="center" > -->
 <a style="color:chartreuse" href="https://www.linkedin.com/in/abhishekmpawar/">
-<svg xmlns="http://www.w3.org/2000/svg"
-width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-stroke-linecap="round" stroke-linejoin="round" class="feather feather-linkedin"><path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z">
-</path><rect x="2" y="9" width="4" height="12"></rect><circle cx="4" cy="4" r="2"></circle>
-</svg>
+
+![Alt text](./controllers_brief.svg)
+<img src="./instagram.svg">
+
 </a>
 &#x2800;
 <a style="color:crimson" href="https://www.instagram.com/kyunaie/"> <svg xmlns="http://www.w3.org/2000/svg" width="24"
