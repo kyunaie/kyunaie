@@ -1,5 +1,5 @@
 <div align="center" >
-<img src="./kopara.svg" alt="Linked In" >
+<!-- <img src="./kopara.svg" alt="Linked In" > -->
 
 ### Hey!✨
 # I am Abhie.
