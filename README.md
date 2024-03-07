@@ -2,7 +2,7 @@
 <!-- <img src="./kopara.svg" alt="Linked In" > -->
 
 ### Hey!✨
-# I am Abhie.
+# I am Abhishek
 ### 🤖 I am a full stack web developer.
 
 ### I’m currently learning:
